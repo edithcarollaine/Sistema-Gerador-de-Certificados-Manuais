@@ -14,7 +14,7 @@ https://github.com/edithcarollaine/Certificado-Automatizado
 ```
   pillow
   openpyxl
-  PyautoGUI
+  PySimpleGUI
 ```
 
 
